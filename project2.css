@@ -14,7 +14,7 @@ header {
 
 .main {
     font-style: italic;
-    color: rgb(128, 112, 112)
+    color: rgb(128, 112, 112);
 }
 
 ul {
@@ -38,7 +38,7 @@ ul li a {
 
 ul li a:hover {
     background-color: #fff;
-    color: rgba(170, 30, 77, 0.815)
+    color: rgba(170, 30, 77, 0.815);
 }
 
 main {
